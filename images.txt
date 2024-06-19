@@ -1,1 +1,1 @@
-velero/velero:v1.8.1
+minio/mc:latest
