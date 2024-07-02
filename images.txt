@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.2.3
+jimmidyson/configmap-reload:v0.4.0
